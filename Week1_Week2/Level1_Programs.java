@@ -1,4 +1,4 @@
-public class Level1_Programs {
+public class Level1_Programs{
 
     public static void main(String[] args) {
 
